@@ -1,9 +1,29 @@
 main {
-  padding-left: 30%;
-  padding-right:30%;
+  padding: 40mm
 }
 
+main {
+  padding-top: 15mm
+}
 
-header {
-   text-align-last: center;
+h1 {
+ padding-left: 110mm
+}
+
+h3 {
+  padding-left: 70mm
+}
+
+h3 {
+ color: blue
+}
+
+img#fondatore {
+  display: block;
+  margin: auto;
+}
+
+img#lacitta {
+  float: left;
+  padding: 2em;
 }
