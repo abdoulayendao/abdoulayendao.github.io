@@ -3,9 +3,9 @@ html, body {
   background-color: black;
   color:white;
 }
-
-
-
+ul {
+  display: none;
+}
 main {
   padding: 40mm
 
