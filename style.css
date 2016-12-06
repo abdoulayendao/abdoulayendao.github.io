@@ -3,9 +3,7 @@ html, body {
   background-color: black;
   color:white;
 }
-ul {
-  display: none;
-}
+
 main {
   padding: 40mm
 
@@ -31,9 +29,10 @@ h3 {
  color: red;
 }
 
-img#fondatore {
+img#nav {
   display: block;
   margin: auto;
+  border-radius:180px;
 }
 
 img#lacitta {
