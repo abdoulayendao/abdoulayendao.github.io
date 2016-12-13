@@ -29,10 +29,10 @@ h3 {
  color: red;
 }
 
-img#nav {
+img~nav {
   display: block;
   margin: auto;
-  border-radius:180px;
+  border-radius:25px;
 }
 
 img#lacitta {
@@ -73,4 +73,7 @@ header > nav > ul > li > a {
 
 header > nav > ul > li > a:hover {
   background-color:white;
+}
+a{
+  color: g
 }
